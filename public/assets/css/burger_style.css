@@ -14,6 +14,7 @@ body {
 #stock_burger {
   display: block;
   margin: auto;
+  margin-top: 2%;
 }
 
 h1,
@@ -28,7 +29,7 @@ h1 {
 }
 
 h2 {
-  font-size: 10px;
+  font-size: 40px;
 }
 
 .burgerAvailable {
@@ -75,7 +76,8 @@ h2 {
   border: none;
 }
 
-.burderFooter {
+.burgerFooter {
   background-color: #ffc04c;
+  color: rgb(53, 53, 53);
   padding: 20px 0;
 }
