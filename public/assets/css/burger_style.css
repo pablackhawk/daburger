@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  width: 75%;
+  width: 80%;
   margin: 0 auto;
   display: flex;
   min-height: 100vh;
@@ -39,7 +39,7 @@ h2 {
   text-align: center;
   border-radius: 25px;
   width: 100%;
-  margin: 10px;
+  margin: 5px;
   padding: 10px;
   background-color: #3657eb;
 }
@@ -54,7 +54,8 @@ h2 {
   font-size: 20px;
   text-align: center;
   border-radius: 25px;
-  margin: 10px;
+  width: 100%;
+  margin: 13px;
   padding: 10px;
   background-color: #ff684e;
 }
@@ -80,4 +81,8 @@ h2 {
   background-color: #ffc04c;
   color: rgb(53, 53, 53);
   padding: 20px 0;
+}
+
+#right-column {
+  margin-bottom: 55px;
 }
